@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://assets.jobs.bg/assets/logo/2022-12-09/b_d27dd9668e436ae84c3fa616ee3229cc.png);
+    margin: auto;
+    border-top: solid 2px black;
+    padding: 10px;
+}
+div {
+    text-align: center;
+    width: 500px;
+    height: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    margin-left: 400px;
+    border-radius: 10%;
+}
+.text{
+    font-size: 22px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 10%;
+    
+}
+#percent{
+    background-color: orange;
+    border-radius: 100%;
+}
